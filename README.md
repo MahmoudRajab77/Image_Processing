@@ -1,2 +1,2 @@
 # Image_Processing
-Some image processing operators and filters. 
+Some basic image processing operators and filters. 
